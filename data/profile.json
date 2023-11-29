@@ -1,13 +1,10 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Joao Pedro G. Torres",
+  "photo":"https://avatars.githubusercontent.com/u/13596247?v=4",
+  "job": "Education Tech Lead na DIO",
+  "location":"Penedo - AL",
+  "phone": "(82) 98104-3360",
+  "email": "joaopedroguedestorres@gmail.com",
   "skills": {
     "hardSkills": [
       {
