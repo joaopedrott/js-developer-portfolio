@@ -8,16 +8,16 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/joaopedrott/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/joaopedrott/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/joaopedrott/js-developer-portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
