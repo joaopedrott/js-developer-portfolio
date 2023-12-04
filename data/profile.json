@@ -97,12 +97,12 @@
     {
       "name": "Projeto Pokedex com os primeiros 151 pokemons criada em JavasCript (DIO)",
       "url": "https://github.com/joaopedrott/Projeto-Pokedex",
-      "git": true
+      "github": true
     },
     {
       "name": "Projeto Cordel baseado no Cordel de Milton Duarte usando HTML e CSS (CursoemVideo)",
       "url": "https://github.com/joaopedrott/projeto-cordel",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
