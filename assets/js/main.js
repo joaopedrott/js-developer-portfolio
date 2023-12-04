@@ -44,6 +44,10 @@ function updateLanguages(profileData) {
 
 }
 
+function updatePortfolio(profileData) {
+    
+}
+
 (async function () {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
