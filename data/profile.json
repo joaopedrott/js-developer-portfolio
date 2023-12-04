@@ -95,14 +95,14 @@
   ],
   "portfolio": [
     {
-      "name": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Projeto Pokedex com os primeiros 151 pokemons criada em JavasCript (DIO)",
+      "url": "https://github.com/joaopedrott/Projeto-Pokedex",
+      "git": true
     },
     {
-      "name": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Projeto Cordel baseado no Cordel de Milton Duarte usando HTML e CSS (CursoemVideo)",
+      "url": "https://github.com/joaopedrott/projeto-cordel",
+      "git": true
     }
   ],
   "experiencias": [
