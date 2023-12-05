@@ -107,13 +107,16 @@
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Monitor / UFAL",
+      "period": "Set 2019 - Mar 2020",
+      "description": "Atuei como monitor na disciplina de Desenvolvimento De Software Para a Web 1, auxilando o professor e alunos nas aulas e atividades. Foi um prazer contribuir com e aprender mais sobre desenvolvimento."
+      
+    },
+    {
+      "name": "Monitor / UFAL",
+      "period": "Jul 2018 - Out 2018",
+      "description": "Atuei como monitor na disciplina de Redes de Computadores 1, auxilando o professor e alunos nas aulas e atividades"
+      
     }
   ]
 }
