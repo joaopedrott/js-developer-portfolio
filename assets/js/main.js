@@ -12,6 +12,8 @@ function updateProfileInfo(profileData) {
 
     const location = document.getElementById('profile.location')
     location.innerText = profileData.location
+    location.href =`https://www.google.com.br/maps/place/Penedo+-+AL/@-10.3053689,-36.5689248,13.5z/data=!4m6!3m5!1s0x70454ecaa7f9f0f:0xae1fbf773d20b89b!8m2!3d-10.2889455!4d-36.5839568!16zL20vMDRkZm5w?entry=ttu`
+    
 
     const phone = document.getElementById('profile.phone')
     phone.innerText = profileData.phone
