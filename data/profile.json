@@ -18,6 +18,10 @@
       {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/joaopedrott/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/joaopedrott/js-developer-portfolio/main/data/imgs/react.png"
       }
     ],
     "softSkills": [
