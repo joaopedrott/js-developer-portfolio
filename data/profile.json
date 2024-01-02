@@ -107,6 +107,11 @@
       "name": "Projeto Cordel baseado no Cordel de Milton Duarte usando HTML e CSS (CursoemVideo)",
       "url": "https://github.com/joaopedrott/projeto-cordel",
       "github": true
+    },
+    {
+      "name": "Projeto Calculadora usando React",
+      "url": "https://github.com/joaopedrott/javascript/tree/main/Dio/React/modulo%207%20Desafio%20Calculadora",
+      "github": true
     }
   ],
   "professionalExperience": [
