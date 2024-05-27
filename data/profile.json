@@ -107,27 +107,32 @@
     {
       "name": "Projeto Cordel baseado no Cordel de Milton Duarte usando HTML e CSS (CursoemVideo)",
       "url": "https://github.com/joaopedrott/projeto-cordel",
-      "github": true
+      "github": true,
+      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
     },
     {
       "name": "Projeto Calculadora usando React (DIO)",
       "url": "https://github.com/joaopedrott/javascript/tree/main/Dio/React/modulo%207%20Desafio%20Calculadora",
-      "github": true
+      "github": true,
+      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
     },
     {
       "name": "Projeto Portfolio (DIO)",
       "url": "https://github.com/joaopedrott/js-developer-portfolio/tree/projeto-base/data",
-      "github": true
+      "github": true,
+      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
     },
     {
       "name": "Projeto Best Pizza (Dev Sem Limites)",
       "url": "https://github.com/joaopedrott/Projeto-Best-Pizza",
-      "github": true
+      "github": true,
+      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
     },
     {
       "name": "Projeto Dev Bot (Dev Sem Limites)",
       "url": "https://github.com/joaopedrott/javascript/tree/main/DEV%20Sem%20Limites/Aulas/DevBot",
-      "github": true
+      "github": true,
+      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
     }
   ],
   "professionalExperience": [
