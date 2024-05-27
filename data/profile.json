@@ -101,26 +101,27 @@
     {
       "name": "Projeto Pokedex com os primeiros 151 pokemons criada em JavaScript",
       "url": "https://github.com/joaopedrott/Projeto-Pokedex",
-      "github": true
+      "github": true,
+      "descricao2": "Projeto feito em HTML, CSS, e javascript junto a um consumo da PokeAPI durante as aulas da formação JavaScript da plataforma DIO"
 
     },
     {
-      "name": "Projeto Cordel baseado no Cordel de Milton Duarte usando HTML e CSS (CursoemVideo)",
+      "name": "Projeto Cordel",
       "url": "https://github.com/joaopedrott/projeto-cordel",
       "github": true,
-      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
+      "descricao2": "Projeto feito durante as aulas de HTMl e CSS do curso em video baseado no Cordel de Milton Duarte em HTML e CSS"
     },
     {
-      "name": "Projeto Calculadora usando React (DIO)",
+      "name": "Projeto Calculadora",
       "url": "https://github.com/joaopedrott/javascript/tree/main/Dio/React/modulo%207%20Desafio%20Calculadora",
       "github": true,
-      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
+      "descricao2": "Projeto feito em HTML, CSS, JavasCript e React durante o curso formação React da plataforma DIO"
     },
     {
-      "name": "Projeto Portfolio (DIO)",
+      "name": "Projeto Portfolio",
       "url": "https://github.com/joaopedrott/js-developer-portfolio/tree/projeto-base/data",
       "github": true,
-      "descricao2": "Projeto feito em html, css, e javascript junto a um consumo de uma api de pokemons"
+      "descricao2": "Projeto feito em HTML, CSS, e JavasCript durante o curso de formação JavaScript para armazenar o portfolio"
     },
     {
       "name": "Projeto Best Pizza (Dev Sem Limites)",
