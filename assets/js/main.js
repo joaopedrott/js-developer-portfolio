@@ -50,15 +50,17 @@ function updateLanguages(profileData) {
 
 function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile.portfolio')
-    portfolio.innerHTML = profileData.portfolio.map(project =>{ return`
+    portfolio.innerHTML = profileData.portfolio.map(project =>{ 
+        const video = "https://www.youtube.com/embed/UpLdxyPClo8?si=7rYRQFP-NSYskN2G"
+        return`
         <li>
         <h3 ${project.github ? 'class="github"': ''}>${project.name}</h3>
         <a href="${project.url}" target="_blank">${project.url}</a>
         <p>${project.descricao2 ? `${project.descricao2}` : ''}</p>
 
+
         
-        <iframe width="560" height="315" src="${project.linkVideo}" frameborder="0"></iframe>
-        
+        ${console.log(project.linkVideo)}
 
         </li>`
     }).join('')

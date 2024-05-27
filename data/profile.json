@@ -103,7 +103,7 @@
       "url": "https://github.com/joaopedrott/Projeto-Pokedex",
       "github": true,
       "descricao2": "Projeto feito em HTML, CSS, e JavaScript junto a um consumo da PokeAPI com os primeiros 151 pokemons da primeira geração durante as aulas da formação JavaScript da plataforma DIO com o propósito de aprender sobre API e desenvolver minhas habilidades",
-      "linkVideo": "https://youtu.com/embed/UpLdxyPClo8"
+      "linkVideo": "UpLdxyPClo8"
 
     },
     {
@@ -111,35 +111,35 @@
       "url": "https://github.com/joaopedrott/projeto-cordel",
       "github": true,
       "descricao2": "Projeto feito durante as aulas de HTMl e CSS do curso em video baseado no Cordel de Milton Duarte em HTML e CSS com o propósito de exercitar minhas habilidades no básico",
-      "linkVideo": "https://youtu.com/embed/UpLdxyPClo8"
+      "linkVideo": "UpLdxyPClo8"
     },
     {
       "name": "Projeto Calculadora",
       "url": "https://github.com/joaopedrott/javascript/tree/main/Dio/React/modulo%207%20Desafio%20Calculadora",
       "github": true,
       "descricao2": "Projeto feito em HTML, CSS, JavaScript e React durante o curso formação React da plataforma DIO com o propósito de exercitar o React e JavaScript",
-      "linkVideo": "https://youtu.com/embed/UpLdxyPClo8"
+      "linkVideo": "UpLdxyPClo8"
     },
     {
       "name": "Projeto Portfólio",
       "url": "https://github.com/joaopedrott/js-developer-portfolio/tree/projeto-base/data",
       "github": true,
       "descricao2": "Projeto feito em HTML, CSS e JavaScript durante o curso de formação JavaScript com o objetivo de para armazenar todo o meu portfólio em um apenas um lugar enquanto pratico minhas habilidades com JavaScript",
-      "linkVideo": "https://youtu.com/embed/UpLdxyPClo8"
+      "linkVideo": "UpLdxyPClo8"
     },
     {
       "name": "Projeto Best Pizza",
       "url": "https://github.com/joaopedrott/Projeto-Best-Pizza",
       "github": true,
       "descricao2": "Projeto feito em HTML, CSS, React, TypeScript e NextJS junto a um consumo da api para pagamentos stripe durante a aula do DSL Weekend",
-      "linkVideo": "https://youtu.com/embed/UpLdxyPClo8"
+      "linkVideo": "UpLdxyPClo8"
     },
     {
       "name": "Projeto Dev Bot",
       "url": "https://github.com/joaopedrott/javascript/tree/main/DEV%20Sem%20Limites/Aulas/DevBot",
       "github": true,
       "descricao2": "Projeto feito em HTML, CSS e JavaScript junto a um consumo da api do ChatGPT durante as aulas do curso DSL",
-      "linkVideo": "https://youtu.com/embed/UpLdxyPClo8"
+      "linkVideo": "UpLdxyPClo8"
     }
   ],
   "professionalExperience": [
