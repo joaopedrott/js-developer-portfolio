@@ -57,9 +57,10 @@ function updatePortfolio(profileData) {
         <h3 ${project.github ? 'class="github"': ''}>${project.name}</h3>
         <a href="${project.url}" target="_blank">${project.url}</a>
         <p>${project.descricao2 ? `${project.descricao2}` : ''}</p>
-      
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/${project.linkVideo}" frameborder="0"></iframe> 
         
+        <div class="conteudo"> 
+         <iframe class="miniVideo" width="560" height="315" src="https://www.youtube.com/embed/${project.linkVideo}" frameborder="0" allowfullscreen></iframe> 
+        </div>
         </li>`
     }).join('')
 }

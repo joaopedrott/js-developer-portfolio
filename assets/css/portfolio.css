@@ -35,3 +35,10 @@
     background-image: url('../img/icons/github.svg');
     margin-right: .5rem;
 }
+
+
+.conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
