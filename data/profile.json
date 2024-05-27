@@ -121,19 +121,19 @@
       "name": "Projeto Portfólio",
       "url": "https://github.com/joaopedrott/js-developer-portfolio/tree/projeto-base/data",
       "github": true,
-      "descricao2": "Projeto feito em HTML, CSS, e JavaScript durante o curso de formação JavaScript com o objetivo de para armazenar todo o meu portfólio em um apenas um lugar enquanto pratico minhas habilidades com JavaScript"
+      "descricao2": "Projeto feito em HTML, CSS e JavaScript durante o curso de formação JavaScript com o objetivo de para armazenar todo o meu portfólio em um apenas um lugar enquanto pratico minhas habilidades com JavaScript"
     },
     {
       "name": "Projeto Best Pizza",
       "url": "https://github.com/joaopedrott/Projeto-Best-Pizza",
       "github": true,
-      "descricao2": "Projeto feito em HTML, CSS, React, TypeScript, NextJS junto a um consumo da api para pagamentos stripe durante a aula do DSL weekend"
+      "descricao2": "Projeto feito em HTML, CSS, React, TypeScript e NextJS junto a um consumo da api para pagamentos stripe durante a aula do DSL weekend"
     },
     {
       "name": "Projeto Dev Bot",
       "url": "https://github.com/joaopedrott/javascript/tree/main/DEV%20Sem%20Limites/Aulas/DevBot",
       "github": true,
-      "descricao2": "Projeto feito em HTML, CSS, e JavaScript junto a um consumo da api do ChatGPT"
+      "descricao2": "Projeto feito em HTML, CSS e JavaScript junto a um consumo da api do ChatGPT"
     }
   ],
   "professionalExperience": [
