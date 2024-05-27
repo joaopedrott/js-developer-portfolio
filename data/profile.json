@@ -99,10 +99,10 @@
   ],
   "portfolio": [
     {
-      "name": "Projeto Pokedex com os primeiros 151 pokemons criada em JavaScript",
+      "name": "Projeto Pokedex",
       "url": "https://github.com/joaopedrott/Projeto-Pokedex",
       "github": true,
-      "descricao2": "Projeto feito em HTML, CSS, e javascript junto a um consumo da PokeAPI durante as aulas da formação JavaScript da plataforma DIO"
+      "descricao2": "Projeto feito em HTML, CSS, e javascript junto a um consumo da PokeAPI com os primeiros 151 pokemons da primeira geração durante as aulas da formação JavaScript da plataforma DIO"
 
     },
     {
