@@ -140,6 +140,13 @@
       "github": true,
       "descricao2": "Projeto feito em HTML, CSS e JavaScript junto a um consumo da api do ChatGPT durante as aulas do curso DSL",
       "linkVideo": "UpLdxyPClo8"
+    },
+    {
+      "name": "Projeto Quis",
+      "url": "https://github.com/joaopedrott/javascript/tree/main/DEV%20Sem%20Limites/Aulas/5-Fundamentos%20do%20ReactJS/Aula%202%20Projeto%20Criado%20com%20Vite/projeto-01-quiz",
+      "github": true,
+      "descricao2": "O projeto Quis foi desenvolvido utilizando HTML, CSS, JAVASCRIPT e a ferramenta VITE para criar a aplicação de maneira rápida e eficiente. O foco desta vez foi aprofundar o conhecimento sobre o VITE para empregá-lo em projetos futuros.",
+      "linkVideo": "5pOoGuUBHC4"
     }
   ],
   "professionalExperience": [
