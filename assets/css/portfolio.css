@@ -34,8 +34,12 @@
     background-size: contain;
     background-image: url('../img/icons/github.svg');
     margin-right: .5rem;
+    
 }
 
+.portfolio li h3 {
+    border-bottom: 1px solid white;
+}
 
 .conteudo {
     display: flex;
