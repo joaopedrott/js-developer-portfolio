@@ -8,6 +8,7 @@
 
 .experience li {
     margin-bottom: 1rem;
+    
 }
 
 .experience li .period {
@@ -25,4 +26,9 @@
     background-size: contain;
     background-image: url('../img/icons/calendar.svg');
     margin-right: .5rem;
+}
+
+.title {
+    
+    border-bottom: 1px solid white;
 }
